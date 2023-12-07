@@ -6,8 +6,15 @@
     color: #46293a !important
 }
 
+footer {
+    text-align: center;
+     font-family: 'Vollkorn', serif;
+
+}
+
 h3 {
     text-align: center;
+    color:  #46293a 
 }
 .icon-block {
     padding: 0 15px
@@ -16,7 +23,8 @@ h3 {
 #intro,
 #work,
 #team {
-    padding-top: 4rem
+    padding-top: 4rem;
+    font-family: 'Poppins', sans-serif;
 }
 
 #index-banner {
@@ -35,15 +43,16 @@ h3 {
     padding: 15% 0;
     font-size: 6.0em;
     font-weight: 100;
+    font-family: 'Vollkorn', serif;
     color: white
 }
 
 .brand-logo {
     position: absolute;
-    color: #672828;
+    color: #46293a;
     display: inline-block;
     font-size: 2.1rem;
-    font-style: font-family: 'Vollkorn', serif;
+    font-family: 'Vollkorn', serif;
     font-weight: 100;
     padding: 0;
     letter-spacing: 7px
@@ -51,6 +60,7 @@ h3 {
 
 .text_h2 {
     font-weight: 100;
+    font-family: 'Poppins', sans-serif;
     margin-bottom: 4%;
     line-height: 4.5rem
 }
@@ -62,17 +72,20 @@ h3 {
 
 .text_b {
     color: #46293a;
+    font-family: 'Poppins', sans-serif;
 }
 
 .in {
     font-weight: 400 !important;
-    font-style: normal !important
+    font-style: normal !important;
+    font-family: 'Vollkorn', serif;
 }
 
 .promo i {
     color: #46293a;
     font-size: 7rem;
-    display: block
+    display: block;
+    font-family: 'Poppins', sans-serif;
 }
 
 
@@ -91,6 +104,7 @@ nav ul a {
     letter-spacing: 2px;
     display: block;
     font-weight: 300;
+    font-family: 'Vollkorn', serif;
     padding: 0px 15px
 }
 
