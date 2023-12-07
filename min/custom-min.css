@@ -3,9 +3,12 @@
 }
 
 .default_color_text {
-    color: #2196F3 !important
+    color: #46293a !important
 }
 
+h3 {
+    text-align: center;
+}
 .icon-block {
     padding: 0 15px
 }
@@ -40,7 +43,7 @@
     color: #672828;
     display: inline-block;
     font-size: 2.1rem;
-    font-style: normal;
+    font-style: font-family: 'Vollkorn', serif;
     font-weight: 100;
     padding: 0;
     letter-spacing: 7px
@@ -67,18 +70,11 @@
 }
 
 .promo i {
-    color: #2196F3;
+    color: #46293a;
     font-size: 7rem;
     display: block
 }
 
-.card-content a {
-    color: #2196F3
-}
-
-.card-content a:hover {
-    color: #2196F3
-}
 
 #work,
 #team {
@@ -134,7 +130,7 @@ nav ul a {
 }
 
 .cd-headline.type .cd-words-wrapper.selected b {
-    color: #2196F3
+    color: #46293a;
 }
 
 .cd-headline.type b {
